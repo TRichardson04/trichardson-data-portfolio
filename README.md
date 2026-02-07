@@ -76,7 +76,7 @@ Each project folder contains:
 - `screenshots/` — PNGs embedded in the README for quick review  
 - `README.md` — Business context, KPIs, visuals, and key takeaways  
 
-This structure is intentional to make projects easy to review, understand, and discuss in interviews.
+Structure is intentional to make projects easy to review, understand, and discuss.
 
 ---
 
