@@ -5,5 +5,12 @@
 
 **Tools Used:** Power BI, DAX, SQL (validation), Excel/CSV
 
-🚧 This project is in progress.
+
+## Dashboard Preview
+
+### Financial Performance Overview
+![Financial Variance Dashboard](./screenshots/finance-variance-dashboard-full.png)
+
+### KPI Summary
+![Financial KPI Summary](./screenshots/finance-variance-dashboard-kpis.png)
 
