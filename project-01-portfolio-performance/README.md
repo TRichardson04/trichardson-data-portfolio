@@ -5,3 +5,13 @@
 **Tools Used:** SQL, Alteryx, Power BI
 
 🚧 This project is currently in progress.
+
+
+
+## Dashboard Preview
+
+### Portfolio Overview
+./screenshots/pmo-portfolio-dashboard-full.png
+
+### KPI Summary
+./screenshots/pmo-portfolio-dashboard-kpis.png
