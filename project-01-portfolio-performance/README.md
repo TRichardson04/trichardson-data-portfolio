@@ -61,10 +61,10 @@ This project demonstrates how portfolio data can be modeled and visualized to su
 ## Dashboard Preview
 
 ### Portfolio Overview
-./screenshots/pmo-portfolio-dashboard-full.png
+![](./screenshots/pmo-portfolio-dashboard-full.png)
 
 ### KPI Summary
-./screenshots/pmo-portfolio-dashboard-kpis.png
+![](./screenshots/pmo-portfolio-dashboard-kpis.png)
 
 ---
 
