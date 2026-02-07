@@ -1,0 +1,11 @@
+﻿ticket_id,category,owner,opened_date,closed_date,status,process_phase
+T001,Onboarding,Alex,1/5/2024,1/12/2024,Closed,Before
+T002,Onboarding,Jordan,1/7/2024,1/18/2024,Closed,Before
+T003,Payroll,Sam,1/10/2024,1/15/2024,Closed,Before
+T004,IT Access,Chris,1/12/2024,,Open,Before
+T005,Payroll,Taylor,1/14/2024,1/25/2024,Closed,Before
+T006,Onboarding,Alex,2/5/2024,2/10/2024,Closed,After
+T007,Payroll,Jordan,2/6/2024,2/12/2024,Closed,After
+T008,IT Access,Sam,2/7/2024,2/9/2024,Closed,After
+T009,Onboarding,Chris,2/8/2024,,Open,After
+T010,Payroll,Taylor,2/10/2024,2/14/2024,Closed,After
