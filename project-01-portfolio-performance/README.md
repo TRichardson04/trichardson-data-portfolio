@@ -1,10 +1,14 @@
-# Project Portfolio Performance Dashboard
 
-**Goal:** Provide leadership with a clear view of project health, including on-time delivery, budget variance, and open risks.
+ Torey Richardson — Data Visualization & Analytics Portfolio
 
-**Tools Used:** SQL, Alteryx, Power BI
+Practical, business-first analytics using **Power BI**, **DAX**, **SQL**, and **Alteryx**.  
+I build executive-ready dashboards that turn messy data into clear decisions—focused on **PMO**, **operations**, and **financial performance**.
 
-🚧 This project is currently in progress.
+- 🎯 **What I do:** KPI design, semantic modeling, data prep, stakeholder reporting
+- 🛠️ **Core tools:** Power BI (DAX, model), SQL, Alteryx (prep/automation)
+- 💼 **Domains:** PMO/portfolio reporting, financial variance, process improvement (Lean CI)
+- 🔗 **This repo:** Each project folder includes the dataset, measures/queries, a `.pbix` file, and screenshots + a README with the business story
+
 
 
 
