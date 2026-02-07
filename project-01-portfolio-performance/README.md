@@ -1,7 +1,6 @@
 # Project Portfolio Performance Dashboard
 
-**Goal:**  
-Provide leadership with a clear, executive‑level view of project portfolio health by summarizing scope, financial exposure, and risk in a single, interactive dashboard.
+**Goal:**  Provide leadership with a clear, executive‑level view of project portfolio health by summarizing scope, financial exposure, and risk in a single, interactive dashboard.
 
 This project demonstrates how portfolio data can be modeled and visualized to support decision‑making, prioritize risk, and enable stakeholder self‑service.
 
