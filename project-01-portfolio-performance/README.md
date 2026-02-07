@@ -1,8 +1,7 @@
 
  Torey Richardson — Data Visualization & Analytics Portfolio
 
-Practical, business-first analytics using **Power BI**, **DAX**, **SQL**, and **Alteryx**.  
-I build executive-ready dashboards that turn messy data into clear decisions—focused on **PMO**, **operations**, and **financial performance**.
+Practical, business‑focused analytics using Power BI (DAX), SQL, and Alteryx. I build executive‑ready dashboards that translate portfolio, financial, and operational data into clear decision‑making insights.
 
 - 🎯 **What I do:** KPI design, semantic modeling, data prep, stakeholder reporting
 - 🛠️ **Core tools:** Power BI (DAX, model), SQL, Alteryx (prep/automation)
