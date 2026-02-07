@@ -17,5 +17,5 @@ Practical, business‑focused analytics using Power BI (DAX), SQL, and Alteryx. 
 ### Portfolio Overview
 ![](./screenshots/pmo-portfolio-dashboard-full.png)
 
-### KPI Summary
+### Key Visuals (Detail Views)
 ![](./screenshots/pmo-portfolio-dashboard-kpis.png)
