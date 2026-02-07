@@ -39,16 +39,18 @@ Screenshots are provided for review; Power BI report files can be shared upon re
 
 ---
 
-### 🚧 Project 3 — Operational Process Improvement (Lean CI) *(In Progress)*
-**Goal:** Evaluate operational performance using metrics such as **cycle time**, **throughput**, and **backlog**, with a before/after lens to assess process changes.
+### ✅ Project 3 — Operational Process Improvement (Lean CI) *(Complete)*
 
-**Planned Highlights**
-- KPI layer: Avg Cycle Time, Backlog, Throughput
-- Visuals: Cycle time trends, backlog breakdowns, before/after comparisons
-- Focus on translating operational data into actionable performance insights
+**Goal:** Evaluate operational performance using **Lean (CI)** metrics—cycle time, backlog, and throughput—and assess the impact of a process change using a clear **Before vs After** comparison.
 
-➡️ **Project folder:** `./project-03-ops-improvement`  
-*(Dashboard and documentation actively being built)*
+**Highlights**
+- KPI layer: **Cycle Time (Days)**, **Cycle Time Improvement (% & Days)**, **Throughput**, **Open Backlog**
+- Visuals: **Average Cycle Time (Before vs After)**, **Open Backlog by Category**, **Throughput (Before vs After)**
+- Demonstrates measurable cycle‑time reduction while maintaining throughput
+- Interactive slicers for **Category** and **Owner** to support targeted analysis
+
+➡️ **View the project:** `./project-03-ops-improvement`  
+Screenshots are provided for review; Power BI report files can be shared upon request.
 
 ---
 
