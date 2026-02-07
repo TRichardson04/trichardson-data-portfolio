@@ -1,9 +1,8 @@
 # Operational Process Improvement (Lean CI) Dashboard
 
-**Goal:**  
-Evaluate operational performance by analyzing **cycle time**, **backlog**, and **throughput**, and assess the impact of a process change using a clear **Before vs After** comparison.
+**Goal:**  Evaluate operational performance by analyzing **cycle time**, **backlog**, and **throughput**, and assess the impact of a process change using a clear **Before vs After** comparison.
 
-This project demonstrates how Lean Continuous Improvement (CI) principles can be applied to operational data to identify bottlenecks, measure improvement, and validate that gains are achieved without sacrificing throughput.
+This project demonstrates how Lean Continuous Improvement principles can be applied to operational data to identify bottlenecks, measure improvement, and validate that gains are achieved without sacrificing throughput.
 
 ---
 
