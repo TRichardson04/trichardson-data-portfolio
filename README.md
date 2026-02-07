@@ -1,36 +1,87 @@
+# Torey Richardson — Data Visualization & Analytics Portfolio
 
-# Torey Richardson – Data Visualization Portfolio
+Practical, business‑first analytics using **Power BI** and **DAX**. Skilled at building executive‑ready dashboards that turn structured data into clear, decision‑useful insights, focused on **PMO/portfolio reporting**, **financial performance**, and **operational clarity**.
 
-Welcome! This repository showcases practical data analytics and visualization projects demonstrating my experience with:
+- 🎯 **What I do:** KPI design, semantic data modeling, data preparation, stakeholder‑ready reporting  
+- 🛠️ **Core tools:** Power BI (DAX, semantic modeling), Excel/CSV  
+- 💼 **Domains:** Portfolio health, budget vs actuals, variance analysis, performance reporting  
+- 📌 **How this repo works:** Each project folder includes datasets, screenshots, and a README explaining the business context and insights
 
-- Power BI (data modeling, DAX, dashboards)
-- Alteryx (data preparation and automation)
-- SQL (data cleaning, joins, aggregations, KPI validation)
+---
 
-## Purpose
-I am building this portfolio to demonstrate hands-on experience in:
-- Project and portfolio reporting
-- Financial and operational analysis
-- Process improvement and performance insights
-- Executive-ready data storytelling
+## Projects
 
-## Projects (In Progress)
-1. **Project Portfolio Performance Dashboard**
-   - On-time delivery, budget variance, and risk visibility
-   - Tools: SQL, Alteryx, Power BI
+### ✅ Project 1 — PMO Portfolio Performance Dashboard 
+**Goal:** Provide leadership with a one‑glance view of project portfolio health (scope, financial exposure, and risk) supported by interactive filtering for stakeholder self‑service.
 
-2. **Financial Variance & Trend Analysis**
-   - Budget vs actuals, variance %, forecasting
-   - Tools: SQL, Power BI
+**Highlights**
+- KPI layer: **Total Projects**, **Total Portfolio Budget**, **% At Risk**, **At‑Risk Projects**, **Avg Budget per Project**
+- Visuals: **Projects by Status**, **Budget by Project**
+- Interactivity: **Project Manager slicer** to explore ownership and impact
+- Clean, reusable **DAX measures** built on a clear semantic model
 
-3. **Operational Process Improvement (Lean CI)**
-   - Cycle time, bottlenecks, before/after analysis
-   - Tools: SQL, Alteryx, Power BI
+➡️ **View the project:** `./project-01-portfolio-performance`  
+Screenshots are provided for review; Power BI report files can be shared upon request.
 
-## Status
-🚧 This portfolio is actively being built. Each project includes:
-- Cleaned datasets
-- SQL queries
-- Alteryx workflows
-- Power BI dashboards
-- Documentation explaining the business context and insights
+---
+
+### ✅ Project 2 — Financial Variance & Trend Analysis 
+**Goal:** Analyze **budget vs actual performance over time**, highlighting variance dollars and percentages with interactive filtering to identify where over‑ or under‑spend is occurring.
+
+**Highlights**
+- KPI layer: **Total Budget**, **Total Actual**, **Variance ($)**, **Variance (%)**
+- Visuals: **Budget vs Actual (Monthly)**, **Monthly Variance ($)** with a zero baseline
+- Time‑aware modeling using a continuous date axis for accurate trend analysis
+- Reusable **DAX** for consistent financial logic across visuals
+
+➡️ **View the project:** `./project-02-finance-variance`  
+Screenshots are provided for review; Power BI report files can be shared upon request.
+
+---
+
+### 🚧 Project 3 — Operational Process Improvement (Lean CI) *(In Progress)*
+**Goal:** Evaluate operational performance using metrics such as **cycle time**, **throughput**, and **backlog**, with a before/after lens to assess process changes.
+
+**Planned Highlights**
+- KPI layer: Avg Cycle Time, Backlog, Throughput
+- Visuals: Cycle time trends, backlog breakdowns, before/after comparisons
+- Focus on translating operational data into actionable performance insights
+
+➡️ **Project folder:** `./project-03-ops-improvement`  
+*(Dashboard and documentation actively being built)*
+
+---
+
+## Skills & Focus Areas
+
+**Analytics & BI**
+- Power BI (semantic modeling, DAX measures, visuals, slicers)
+- DAX (KPIs, ratios, percentages, financial variance logic)
+- Excel/CSV (dataset creation, shaping, and preparation)
+
+**Reporting & Analysis**
+- Portfolio and PMO reporting
+- Financial performance and variance analysis
+- Executive‑ready dashboards and stakeholder storytelling
+- Clear documentation and repeatable project structure
+
+---
+
+## How This Portfolio Is Organized
+
+Each project folder contains:
+- `data/` — CSV datasets used in the model   
+- `screenshots/` — PNGs embedded in the README for quick review  
+- `README.md` — Business context, KPIs, visuals, and key takeaways  
+
+This structure is intentional to make projects easy to review, understand, and discuss in interviews.
+
+---
+
+## About Me
+
+I enjoy turning ambiguity into **structured insights and clear reporting**. My strengths include defining meaningful KPIs, building semantic models, and delivering dashboards that help leaders quickly understand what’s happening and where to focus next.
+
+---
+
+Feedback and conversation are always welcome.
